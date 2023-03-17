@@ -9,7 +9,7 @@
 [![test](https://github.com/httpland/hsts-parser/actions/workflows/test.yaml/badge.svg)](https://github.com/httpland/hsts-parser/actions/workflows/test.yaml)
 [![NPM](https://nodei.co/npm/@httpland/hsts-parser.png?mini=true)](https://nodei.co/npm/@httpland/hsts-parser/)
 
-HTTP `Strict-Transport-Security` header field parser.
+HTTP Strict Transport Security(HSTS) header field parser.
 
 Compliant with
 [RFC 6797, 6.1. Strict-Transport-Security HTTP Response Header Field](https://www.rfc-editor.org/rfc/rfc6797#section-6.1).

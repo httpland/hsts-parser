@@ -9,7 +9,7 @@ export const makeOptions = (version: string): BuildOptions => ({
   package: {
     name: "@httpland/hsts-parser",
     version,
-    description: "HTTP Strict-Transport-Security header field parser",
+    description: "HTTP Strict Transport Security(HSTS) header field parser",
     keywords: [
       "http",
       "parse",
