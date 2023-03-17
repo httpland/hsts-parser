@@ -49,7 +49,7 @@ Throws `TypeError` if [Strict Transport Security](#strict-transport-security)
 contains errors.
 
 ```ts
-import { stringify } from "https://deno.land/x/range_parser@$VERSION/mod.ts";
+import { stringify } from "https://deno.land/x/hsts_parser@$VERSION/mod.ts";
 import { assertThrows } from "https://deno.land/std/testing/asserts.ts";
 
 assertThrows(() => stringify({ maxAge: NaN }));
